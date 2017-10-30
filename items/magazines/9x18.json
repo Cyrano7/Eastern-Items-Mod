@@ -1,0 +1,18 @@
+[
+  {
+    "id": "pmm_mag",
+    "copy-from": "makarovmag",
+    "type": "MAGAZINE",
+    "name": "Makarov PMM magazine",
+    "description": "The standard magazine for the Modernized Makarov pistol, holds 10 rounds.",
+    "capacity": 10
+  },
+  {
+    "id": "bigpmm_mag",
+    "copy-from": "makarovmag",
+    "type": "MAGAZINE",
+    "name": "Extended Makarov PMM magazine",
+    "description": "A slightly extended version of the magazine for the Modernized Makarov pistol, holds 12 rounds.",
+    "capacity": 12
+  }
+]
