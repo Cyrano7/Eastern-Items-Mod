@@ -1,0 +1,36 @@
+[
+  {
+    "type": "ITEM_BLACKLIST",
+    "items": [
+      "lemat_revolver",
+      "garand",
+      "garandclip",
+      "m1903",
+      "m1918",
+      "m1918mag",
+      "m1918bigmag",
+      "tommygun",
+      "thompson_mag",
+      "thompson_bigmag",
+      "thompson_drum",
+      "mosin91_30_ebr",
+      "mosin44_ebr",
+      "mn_ebr_kit",
+      "mn_classic_kit",
+      "colt_navy",
+      "colt_army",
+      "36navy",
+      "44army",
+      "rifle_flintlock",
+      "carbine_flintlock",
+      "carbine_flintlock_double",
+      "pistol_flintlock",
+      "blunderbuss",
+      "blun_slug",
+      "blun_shot",
+      "blun_flechette",
+      "flintlock_ammo",
+      "flintlock_shot"
+    ]
+  }
+]
