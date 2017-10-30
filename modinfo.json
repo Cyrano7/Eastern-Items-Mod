@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "eastern_items_mod",
+    "name": "Eastern Items Mod",
+    "authors": [ "Cyrano7" ],
+    "description": "A Eastern European themed item and content mod",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
