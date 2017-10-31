@@ -14,5 +14,21 @@
     "name": "Extended Makarov PMM magazine",
     "description": "A slightly extended version of the magazine for the Modernized Makarov pistol, holds 12 rounds.",
     "capacity": 12
+  },
+  {
+    "id": "fortmag",
+    "type": "MAGAZINE",
+    "name": "Fort-12 magazine",
+    "description": "The standard magazine for the Fort-12, holds 12 rounds.",
+    "weight": 60,
+    "volume": 1,
+    "price": 2300,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9x18",
+    "capacity": 12,
+    "reliability": 9,
+    "flags": [ "MAG_COMPACT" ]
   }
 ]
