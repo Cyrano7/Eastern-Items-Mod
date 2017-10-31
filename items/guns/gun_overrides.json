@@ -9,5 +9,14 @@
     "color": "light_gray",
     "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
     "magazines": [ [ "9x18", [ "makarovmag" ] ] ]
+  },
+  {
+    "id": "tokarev",
+    "copy-from": "tokarev",
+    "type": "GUN",
+    "name": "Tokarev TT-33",
+    "name_plural": "Tokarev TT-33",
+    "description": "The Tokarev TT-33 is a WWII-era Russian semiautomatic pistol, famous for its durability, accuracy, and uncomfortable grip angle.  It was chambered for the 7.62x25mm due to the popularity of the C96 pistol among Russian revolutionaries.",
+    "weight": 854
   }
 ]
