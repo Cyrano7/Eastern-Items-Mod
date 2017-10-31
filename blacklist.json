@@ -111,7 +111,10 @@
       "5x50_50_mag",
       "5x50_100_mag",
       "l_lmg_223",
-      "lwfeed"
+      "lwfeed",
+      "drink_sewerbrew",
+      "drink_boozeberry",
+      "drink_strawberry_surprise"
     ]
   }
 ]
