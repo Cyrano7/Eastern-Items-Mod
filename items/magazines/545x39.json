@@ -11,7 +11,7 @@
     "id": "aks74umag",
     "copy-from": "ak74mag",
     "type": "MAGAZINE",
-    "name": "AKS-74U magazine",
+    "name": "AK-74 compact magazine",
     "description": "A shorter magazine made for the AKS-74U carbine, made of steel-reinforced polymer.  Holds 20 rounds.",
     "weight": 180,
     "capacity": 20
