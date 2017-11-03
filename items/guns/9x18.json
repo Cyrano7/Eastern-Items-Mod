@@ -1,6 +1,6 @@
 [
   {
-  	"id": "pistole_m",
+    "id": "pistole_m",
     "copy-from": "makarov",
     "type": "GUN",
     "name": "Pistole M",
