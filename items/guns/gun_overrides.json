@@ -29,5 +29,17 @@
       [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
       [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
     ]
+  },
+  {
+    "id": "an94",
+    "copy-from": "an94",
+    "type": "GUN",
+    "name": "AN-94",
+    "weight": 3850,
+    "color": "light_gray",
+    "magazines": [
+      [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
+      [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
+    ]
   }
 ]
