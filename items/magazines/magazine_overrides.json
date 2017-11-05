@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ak74mag",
+    "copy-from": "ak74mag",
+    "type": "MAGAZINE",
+    "name": "AK-74 magazine",
+    "description": "A standard magazine made for the AK-74 rifle, made of steel-reinforced polymer.  Holds 30 rounds.",
+    "color": "light_gray"
+  },
+  {
+    "id": "rpk74mag",
+    "copy-from": "rpk74mag",
+    "type": "MAGAZINE",
+    "name": "AK-74 extended magazine",
+    "description": "A 45-round magazine compatible with the AK-74 rifle, though originally designed for the RPK-74 light machine gun.",
+    "color": "light_gray"
+  }
+]
