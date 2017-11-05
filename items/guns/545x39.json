@@ -1,0 +1,33 @@
+[
+  {
+    "id": "aks74u",
+    "copy-from": "ak74",
+    "type": "GUN",
+    "name": "AKS-74U",
+    "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.  This version is a lightened carbine variant with a folding stock.",
+    "weight": 2700,
+    "volume": 6,
+    "built_in_mods": [ "folding_stock" ],
+    "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "bore", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "underbarrel", 1 ] ]
+  },
+  {
+    "id": "ak74m",
+    "copy-from": "ak74",
+    "type": "GUN",
+    "name": "AK-74M",
+    "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.  This version is a modernized variant with a glass polyamide folding stock and handguard.",
+    "weight": 3400,
+    "material": [ "steel", "plastic" ],
+    "color": "light_gray",
+    "default_mods": [ "folding_stock" ]
+  },
+  {
+    "id": "ak105",
+    "copy-from": "ak74m",
+    "type": "GUN",
+    "name": "AK-105",
+    "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.  This version is a modernized lightened carbine variant with a glass polyamide folding stock and handguard.",
+    "weight": 3200,
+    "volume": 6
+  }
+]
