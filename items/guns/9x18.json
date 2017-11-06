@@ -46,5 +46,28 @@
     "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
     "magazine_well": 1,
     "magazines": [ [ "9x18", [ "fortmag" ] ] ]
+  },
+  {
+    "id": "aps",
+    "copy-from": "pistol_base",
+    "type": "GUN",
+    "name": "Stechkin APS",
+    "description": "A Soviet era select fire machine pistol.  It uses the 9x18mm cartridge, which remains in use among various former Soviet countries.",
+    "weight": 1220,
+    "volume": 2,
+    "price": 25000,
+    "to_hit": -1,
+    "bashing": 9,
+    "material": [ "steel", "plastic" ],
+    "ammo": "9x18",
+    "dispersion": 480,
+    "durability": 6,
+    "modes": [
+      [ "DEFAULT", "semi-auto", 1 ],
+      [ "AUTO", "auto", 8 ]
+    ],
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ], [ "underbarrel", 1 ] ],
+    "magazine_well": 1,
+    "magazines": [ [ "9x18", [ "apsmag" ] ] ]
   }
 ]

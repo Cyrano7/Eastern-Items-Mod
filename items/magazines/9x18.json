@@ -30,5 +30,21 @@
     "capacity": 12,
     "reliability": 9,
     "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "apsmag",
+    "type": "MAGAZINE",
+    "name": "APS magazine",
+    "description": "The standard magazine for the Stechkin APS, holds 20 rounds.",
+    "weight": 60,
+    "volume": 1,
+    "price": 2300,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9x18",
+    "capacity": 20,
+    "reliability": 9,
+    "flags": [ "MAG_COMPACT" ]
   }
 ]
