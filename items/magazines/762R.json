@@ -1,0 +1,34 @@
+[
+  {
+    "id": "svdmag",
+    "type": "MAGAZINE",
+    "name": "SVD magazine",
+    "description": "The standard magazine for the Dragunov SVD, holds 10 rounds.",
+    "weight": 100,
+    "volume": 1,
+    "price": 5000,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "762R",
+    "capacity": 10,
+    "reliability": 9,
+    "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "svtmag",
+    "type": "MAGAZINE",
+    "name": "SVT magazine",
+    "description": "The standard box magazine for the SVT-40, holds 10 rounds.",
+    "weight": 100,
+    "volume": 1,
+    "price": 5000,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "762R",
+    "capacity": 10,
+    "reliability": 9,
+    "flags": [ "MAG_COMPACT" ]
+  }
+]
