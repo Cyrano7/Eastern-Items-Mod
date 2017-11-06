@@ -1,0 +1,15 @@
+[
+  {
+    "id": "pps",
+    "copy-from": "ppsh",
+    "type": "GUN",
+    "name": "PPS-43",
+    "description": "A simple, cheap sheet-stamped steel submachine gun developed by the Soviet Union during WWII.",
+    "weight": 3040,
+    "material": [ "steel" ],
+    "color": "light_gray",
+    "built_in_mods": [ "folding_stock" ],
+    "valid_mod_locations": [ [ "accessories", 3 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "sights", 1 ], [ "underbarrel", 1 ] ],
+    "magazines": [ [ "762x25", [ "ppsmag" ] ] ]
+  }
+]

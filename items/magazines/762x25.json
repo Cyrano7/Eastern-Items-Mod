@@ -1,0 +1,9 @@
+[
+  {
+    "id": "ppsmag",
+    "copy-from": "ppshmag",
+    "type": "MAGAZINE",
+    "name": "PPh 35-round magazine",
+    "description": "A 35-round box magazine for the PPh-43."
+  }
+]
