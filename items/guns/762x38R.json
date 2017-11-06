@@ -1,0 +1,21 @@
+[
+  {
+    "id": "nagant",
+    "copy-from": "pistol_revolver",
+    "type": "GUN",
+    "name": "Nagant M1895",
+    "name_plural": "Nagant M1895",
+    "description": "The Nagant M1895 Revolver is a seven-shot, gas-seal revolver.  The cylinder moves forward when cocked to close the gap between the cylinder and the barrel, providing increased muzzle velocity to the bullet when fired.",
+    "weight": 800,
+    "volume": 2,
+    "price": 25000,
+    "to_hit": -1,
+    "bashing": 9,
+    "material": [ "steel" ],
+    "ammo": "762x38R",
+    "dispersion": 320,
+    "durability": 10,
+    "clip_size": 7,
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
+  }
+]
