@@ -15,7 +15,6 @@
     "copy-from": "tokarev",
     "type": "GUN",
     "name": "Tokarev TT-33",
-    "name_plural": "Tokarev TT-33",
     "weight": 854
   },
   {
@@ -38,6 +37,18 @@
     "weight": 3850,
     "color": "light_gray",
     "magazines": [
+      [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
+      [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
+    ]
+  },
+  {
+    "id": "ak47",
+    "copy-from": "ak47",
+    "type": "GUN",
+    "name": "AKM",
+    "weight": 3100,
+    "magazines": [
+      [ "762", [ "akmmag", "akmbigmag" ] ],
       [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
       [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
     ]
