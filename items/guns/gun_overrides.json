@@ -51,5 +51,12 @@
       [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
       [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
     ]
+  },
+  {
+    "id": "sks",
+    "copy-from": "sks",
+    "type": "GUN",
+    "name": "SKS",
+    "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
   }
 ]
