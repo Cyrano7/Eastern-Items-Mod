@@ -58,5 +58,26 @@
     "type": "GUN",
     "name": "SKS",
     "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ] ]
+  },
+  {
+    "id": "glock_19",
+    "copy-from": "glock_19",
+    "type": "GUN",
+    "name": "Glock 17",
+    "description": "Possibly the most popular pistol in existence.  The Glock 17 is often derided for its plastic construction, but it is easy to shoot."
+  },
+  {
+    "id": "shotgun_d",
+    "copy-from": "shotgun_d",
+    "type": "GUN",
+    "name": "TOZ-66",
+    "description": "An old shotgun, possibly antique.  It is little more than a pair of barrels, a wood stock, and a hammer to strike the cartridges."
+  },
+  {
+    "id": "shotgun_s",
+    "copy-from": "shotgun_s",
+    "type": "GUN",
+    "name": "Baikal IZH-18",
+    "description": "An old shotgun, possibly antique.  It is little more than a barrel, a wood stock, and a hammer to strike the cartridge.  Its simple design keeps it both light and accurate."
   }
 ]
