@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bhpmag",
+    "type": "MAGAZINE",
+    "name": "Browing HP magazine",
+    "description": "A steel 13-round magazine for use with the Browing Hi-Power.",
+    "weight": 135,
+    "volume": 1,
+    "price": 2900,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9mm",
+    "capacity": 13,
+    "reliability": 7,
+    "flags": [ "MAG_COMPACT" ]
+  }
+]
