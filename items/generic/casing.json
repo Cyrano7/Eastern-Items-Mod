@@ -1,11 +1,11 @@
 [
   {
-    "id": "762R_casing",
+    "id": "762x38R_casing",
     "copy-from": "casing",
     "type": "GENERIC",
-    "name": "7.62x54mmR casing",
-    "description": "An empty casing from a 7.62x54mmR round.",
-    "weight": 7,
-    "volume": "10ml"
+    "name": "7.62x38mmR casing",
+    "description": "An empty casing from a 7.62x38mmR round.",
+    "weight": 4,
+    "volume": "7ml"
   }
 ]
