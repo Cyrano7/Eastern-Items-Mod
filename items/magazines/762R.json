@@ -1,5 +1,16 @@
 [
   {
+    "id": "belt762R",
+    "copy-from": "magazine_belt",
+    "type": "MAGAZINE",
+    "name": "ammo belt 7.62x54mmR",
+    "ammo_type": "762R",
+    "capacity": 500,
+    "count": 100,
+    "default_ammo": "762_54R",
+    "linkage": "ammolink762R"
+  },
+  {
     "id": "svdmag",
     "type": "MAGAZINE",
     "name": "SVD magazine",

@@ -40,5 +40,37 @@
     "barrel_length": 4,
     "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "sights", 1 ] ],
     "magazines": [ [ "762R", [ "svtmag" ] ] ]
+  },
+  {
+    "id": "pkm",
+    "copy-from": "rifle_auto",
+    "type": "GUN",
+    "name": "PKM",
+    "description": "TODO",
+    "weight": 7500,
+    "volume": 12,
+    "price": 1000000,
+    "to_hit": -1,
+    "bashing": 13,
+    "material": [ "steel", "wood" ],
+    "ammo": "762R",
+    "dispersion": 200,
+    "durability": 9,
+    "reload": 400,
+    "modes": [ [ "DEFAULT", "auto", 20 ] ],
+    "built_in_mods": [ "bipod" ],
+    "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ] ],
+    "magazines": [ [ "762R", [ "belt762R" ] ] ]
+  },
+  {
+    "id": "pkp",
+    "copy-from": "pkm",
+    "type": "GUN",
+    "name": "Pecheneg",
+    "description": "TODO",
+    "weight": 8700,
+    "price": 1000000,
+    "material": [ "steel", "plastic" ],
+    "color": "dark_gray"
   }
 ]

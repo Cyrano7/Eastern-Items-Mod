@@ -1,0 +1,12 @@
+[
+  {
+    "id": "ammolink762R",
+    "copy-from": "ammolink",
+    "type": "GENERIC",
+    "name": "7.62x54mmR ammo belt linkage",
+    "use_action": {
+      "type": "ammobelt",
+      "belt": "belt762R"
+    }
+  }
+]
