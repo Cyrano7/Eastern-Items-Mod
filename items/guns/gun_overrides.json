@@ -90,7 +90,7 @@
   },
   {
     "id": "m9",
-    "copy-from": "pistol_base",
+    "copy-from": "m9",
     "type": "GUN",
     "name": "Beretta M9",
     "description": "An American variant of the popular Beretta 92.  The M9 has been the standard issue sidearm of the United States Armed Forces since 1985.",
