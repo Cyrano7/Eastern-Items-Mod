@@ -46,7 +46,7 @@
     "copy-from": "rifle_auto",
     "type": "GUN",
     "name": "PKM",
-    "description": "TODO",
+    "description": "The PKM is a belt-feed 7.62x54mmR general-purpose machine gun developed in the Soviet Union.  It is still widely used by the Russian army as well as many other countries.",
     "weight": 7500,
     "volume": 12,
     "price": 1000000,
