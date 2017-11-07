@@ -79,5 +79,13 @@
     "type": "GUN",
     "name": "Baikal IZH-18",
     "description": "An old shotgun, possibly antique.  It is little more than a barrel, a wood stock, and a hammer to strike the cartridge.  Its simple design keeps it both light and accurate."
+  },
+  {
+    "id": "skorpion_82",
+    "copy-from": "skorpion_82",
+    "type": "GUN",
+    "name": "Skorpion Vz. 82",
+    "description": "A version of the Czechoslovak Skorpion submachine gun chambered in 9x18mm Makarov, with a slightly longer barrel than the original design.",
+    "magazines": [ [ "9x18", [ "skorpion82mag" ] ] ]
   }
 ]
