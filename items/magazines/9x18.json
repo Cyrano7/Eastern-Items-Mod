@@ -46,5 +46,37 @@
     "capacity": 20,
     "reliability": 9,
     "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "kedr20mag",
+    "type": "MAGAZINE",
+    "name": "Kedr 20-round magazine",
+    "description": "A 20-round magazine for the PP-91 Kedr.",
+    "weight": 170,
+    "volume": 2,
+    "price": 2300,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9x18",
+    "capacity": 20,
+    "reliability": 8,
+    "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "bizonmag",
+    "type": "MAGAZINE",
+    "name": "Bizon magazine",
+    "description": "A 64-round helical-feed cylinder magazine for the PP-19 Bizon.",
+    "weight": 360,
+    "volume": 3,
+    "price": 2300,
+    "material": "steel",
+    "symbol": "#",
+    "color": "light_gray",
+    "ammo_type": "9x18",
+    "capacity": 64,
+    "reliability": 8,
+    "flags": [ "MAG_BULKY" ]
   }
 ]
