@@ -17,5 +17,29 @@
     "durability": 8,
     "magazine_well": 1,
     "magazines": [ [ "9mm", [ "bhpmag" ] ] ]
+  },
+  {
+    "id": "cz75",
+    "copy-from": "glock_19",
+    "type": "GUN",
+    "name": "CZ 75",
+    "description": "TODO",
+    "weight": 1120
+  },
+  {
+    "id": "gsh18",
+    "copy-from": "glock_19",
+    "type": "GUN",
+    "name": "GSh-18",
+    "description": "TODO",
+    "weight": 590
+  },
+  {
+    "id": "grach",
+    "copy-from": "glock_19",
+    "type": "GUN",
+    "name": "MP-443 Grach",
+    "description": "TODO",
+    "weight": 950
   }
 ]
