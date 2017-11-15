@@ -70,5 +70,56 @@
       [ "cx4", 50 ],
       [ "bizon", 20 ]
     ]
+  },
+  {
+    "id": "guns_smg_milspec",
+    "type": "item_group",
+    "//": "Military specification SMGs only ever found at military sites.",
+    "items": [
+      [ "hk_mp7", 100 ],
+      [ "bizon", 40 ]
+    ]
+  },
+  {
+    "id": "guns_smg_obscure",
+    "type": "item_group",
+    "//": "Imported or otherwise very obscure SMGs.",
+    "items": [
+      [ "hk_mp5", 100 ],
+      [ "skorpion_61", 100 ],
+      [ "skorpion_82", 100 ]
+    ]
+  },
+  {
+    "id": "guns_rifle_common",
+    "type": "item_group",
+    "//": "Rifles commonly owned by citizens and found in many locations.",
+    "items": [
+      [ "mosin44", 20 ],
+      [ "mosin91_30", 25 ],
+      [ "sks", 30 ],
+      [ "aks74u", 20 ],
+      [ "svt", 10 ]
+    ]
+  },
+  {
+    "id": "guns_rifle_rare",
+    "type": "item_group",
+    "//": "Less common rifles including those only used by police/paramilitary forces.",
+    "items": [
+      [ "aks74u", 30 ],
+      [ "ak74", 20 ]
+    ]
+  },
+  {
+    "id": "guns_rifle_milspec",
+    "type": "item_group",
+    "//": "Military specification rifles only ever found at military sites.",
+    "items": [
+      [ "ak74m", 50 ],
+      [ "ak105", 30 ],
+      [ "svd", 20 ],
+      [ "an94", 10 ]
+    ]
   }
 ]
