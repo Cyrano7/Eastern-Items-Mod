@@ -4,7 +4,7 @@
     "type": "AMMO",
     "name": "7.62x38mmR",
     "description": "A unique ammunition cartridge designed for use in the Nagant M1895 revolver.  It features a bullet seated below the mouth of the cartridge case and a crimped at the top.  When fired the crimp expands completing a gas-seal increasing the muzzle velocity of the bullet.",
-    "weight": 5,
+    "weight": 7,
     "volume": 1,
     "price": 1800,
     "material": [ "brass", "powder" ],
@@ -15,9 +15,9 @@
     "ammo_type": "762x38R",
     "casing": "762x38R_casing",
     "range": 12,
-    "damage": 16,
+    "damage": 22,
     "dispersion": 70,
-    "recoil": 150,
+    "recoil": 500,
     "effects": [ "COOKOFF" ]
   }
 ]
