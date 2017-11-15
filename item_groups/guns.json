@@ -31,7 +31,7 @@
       [ "makarov_m", 80 ],
       [ "grach", 80 ],
       [ "gsh18", 40 ],
-      [ "glock_17", 20 ],
+      [ "glock_19", 20 ],
       [ "makarov_pb", 10 ]
     ]
   },
@@ -40,7 +40,7 @@
     "type": "item_group",
     "//": "Imported or otherwise very obscure pistols.",
     "items": [
-      [ "glock_17", 20 ],
+      [ "glock_19", 20 ],
       [ "cz75", 20 ],
       [ "m9", 20 ],
       [ "browning_hp", 20 ],
