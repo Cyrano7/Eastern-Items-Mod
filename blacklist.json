@@ -143,7 +143,27 @@
       "armguard_paper",
       "legguard_paper",
       "bookplate",
-      "clogs"
+      "clogs",
+      "rifle_22",
+      "surv_carbine_223",
+      "rifle_3006",
+      "survivor_special_700",
+      "rifle_308",
+      "2_shot_special",
+      "surv_six_shooter",
+      "launcher_simple",
+      "triple_launcher_simple",
+      "surv_hand_cannon",
+      "rifle_9mm",
+      "ashot",
+      "bigun",
+      "pipe_double_shotgun",
+      "pipe_shotgun",
+      "surv_levershotgun",
+      "pipe_combination_gun",
+      "pipe_launcher40mm",
+      "survivor223mag",
+      "survivor9mm_mag"
     ]
   }
 ]
