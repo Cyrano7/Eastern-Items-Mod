@@ -23,10 +23,7 @@
     "name": "AK-74",
     "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.",
     "weight": 3070,
-    "magazines": [
-      [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
-      [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
-    ]
+    "magazines": [ [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ] ]
   },
   {
     "id": "an94",
@@ -35,22 +32,14 @@
     "name": "AN-94",
     "weight": 3850,
     "color": "dark_gray",
-    "magazines": [
-      [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
-      [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
-    ]
+    "magazines": [ [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ] ]
   },
   {
     "id": "ak47",
     "copy-from": "ak47",
     "type": "GUN",
     "name": "AKM",
-    "weight": 3100,
-    "magazines": [
-      [ "762", [ "akmmag", "akmbigmag" ] ],
-      [ "545x39", [ "ak74mag", "aks74umag", "rpk74mag" ] ],
-      [ "223", [ "stanag30", "stanag10", "stanag50" ] ]
-    ]
+    "weight": 3100
   },
   {
     "id": "sks",
