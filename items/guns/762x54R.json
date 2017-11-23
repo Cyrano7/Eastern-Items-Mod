@@ -67,7 +67,7 @@
     "copy-from": "pkm",
     "type": "GUN",
     "name": "Pecheneg",
-    "description": "TODO",
+    "description": "The PKP Pecheneg is a belt-feed 7.62x54mmR general-purpose machine gun developed to replace the Soviet era PKM.  It features a heavier barrel and mounts for optics or other sights.",
     "weight": 8700,
     "price": 1000000,
     "material": [ "steel", "plastic" ],
