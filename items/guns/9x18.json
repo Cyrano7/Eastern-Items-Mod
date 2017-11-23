@@ -8,6 +8,15 @@
     "color": "dark_gray"
   },
   {
+    "id": "vz82",
+    "copy-from": "makarov",
+    "type": "GUN",
+    "name": "Vz. 82",
+    "description": "TODO",
+    "weight": 800,
+    "color": "dark_gray"
+  },
+  {
     "id": "makarov_m",
     "copy-from": "makarov",
     "type": "GUN",
