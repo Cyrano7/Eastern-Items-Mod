@@ -12,7 +12,7 @@
     "copy-from": "makarov",
     "type": "GUN",
     "name": "Vz. 82",
-    "description": "TODO",
+    "description": "The Vz.82, also refered to as the CZ 83",
     "weight": 800,
     "color": "dark_gray"
   },

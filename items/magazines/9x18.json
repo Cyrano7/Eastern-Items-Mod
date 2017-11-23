@@ -16,6 +16,14 @@
     "capacity": 12
   },
   {
+    "id": "vz_mag",
+    "copy-from": "makarovmag",
+    "type": "MAGAZINE",
+    "name": "Vz. 82 magazine",
+    "description": "The standard magazine for the Vz.82 pistol, holds 12 rounds.",
+    "capacity": 12
+  },
+  {
     "id": "fortmag",
     "type": "MAGAZINE",
     "name": "Fort-12 magazine",
