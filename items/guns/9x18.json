@@ -14,6 +14,7 @@
     "name": "Vz. 82",
     "description": "The Vz.82, also referred to as the CZ 83 was Czechoslovakia's attempted at making an improved version of the Soviet Makarov pistol.  It features a larger magazine, better finish, and much improved ergonomics.",
     "weight": 800,
+    "material": [ "steel" ],
     "color": "dark_gray"
   },
   {
