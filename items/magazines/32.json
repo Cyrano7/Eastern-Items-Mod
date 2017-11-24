@@ -1,9 +1,9 @@
 [
   {
-    "id": "vz70_mag",
+    "id": "vz50_mag",
     "type": "MAGAZINE",
-    "name": "Vz. 70 magazine",
-    "description": "A standard 8-round steel box magazine for the Vz. 70.",
+    "name": "Vz. 50 magazine",
+    "description": "A standard 8-round steel box magazine for the Vz. 50.",
     "weight": 80,
     "volume": 1,
     "price": 2600,
