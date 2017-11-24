@@ -27,6 +27,6 @@
       [ "underbarrel", 1 ]
     ],
     "magazine_well": 1,
-    "magazines": [ [ "32", [ "ppkmag" ] ] ]
+    "magazines": [ [ "32", [ "vz70_mag" ] ] ]
   }
 ]
