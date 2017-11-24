@@ -4,7 +4,7 @@
     "copy-from": "pistol_base",
     "type": "GUN",
     "name": "Vz. 50",
-    "description": "TODO",
+    "description": "The Vz. 50, also know as the CZ 50 is a small semi-automatic pistol developed for police use in post WWII Czechoslovakia.  It's chambered for the .32 ACP cartridge.",
     "weight": 710,
     "volume": 1,
     "price": 45000,
