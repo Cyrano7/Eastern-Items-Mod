@@ -16,7 +16,7 @@
     "weight": 800,
     "material": [ "steel" ],
     "color": "dark_gray",
-    "magazines": [ [ "9x18", [ "vz_mag" ] ] ]
+    "magazines": [ [ "9x18", [ "vz82_mag" ] ] ]
   },
   {
     "id": "makarov_m",
