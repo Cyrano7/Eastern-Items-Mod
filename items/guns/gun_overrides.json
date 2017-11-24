@@ -39,7 +39,8 @@
     "copy-from": "ak47",
     "type": "GUN",
     "name": "AKM",
-    "weight": 3100
+    "weight": 3100,
+    "magazines": [ [ "762", [ "akmmag", "akmbigmag" ] ] ]
   },
   {
     "id": "sks",
