@@ -5,11 +5,13 @@
     "//": "Pistols commonly owned by citizens and found in many locations.",
     "items": [
       [ "makarov", 100 ],
-      [ "tokarev", 50 ],
+      [ "tokarev", 40 ],
       [ "fort12", 30 ],
       [ "makarov_m", 30 ],
+      [ "vz82", 20 ],
       [ "pistole_m", 10 ],
       [ "aps", 10 ],
+      [ "vz50", 10 ],
       [ "nagant", 10 ]
     ]
   },
