@@ -1,0 +1,32 @@
+[
+  {
+    "id": "vz70",
+    "copy-from": "pistol_base",
+    "type": "GUN",
+    "name": "Vz. 70",
+    "description": "TODO",
+    "weight": 710,
+    "volume": 1,
+    "price": 45000,
+    "to_hit": -1,
+    "bashing": 8,
+    "material": [ "steel", "plastic" ],
+    "color": "dark_gray",
+    "ammo": "32",
+    "dispersion": 480,
+    "durability": 8,
+    "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "barrel", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ],
+    "magazine_well": 1,
+    "magazines": [ [ "32", [ "ppkmag" ] ] ]
+  }
+]
