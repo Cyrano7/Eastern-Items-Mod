@@ -1,9 +1,9 @@
 [
   {
-    "id": "vz70",
+    "id": "vz50",
     "copy-from": "pistol_base",
     "type": "GUN",
-    "name": "Vz. 70",
+    "name": "Vz. 50",
     "description": "TODO",
     "weight": 710,
     "volume": 1,
@@ -27,6 +27,6 @@
       [ "underbarrel", 1 ]
     ],
     "magazine_well": 1,
-    "magazines": [ [ "32", [ "vz70_mag" ] ] ]
+    "magazines": [ [ "32", [ "vz50_mag" ] ] ]
   }
 ]
