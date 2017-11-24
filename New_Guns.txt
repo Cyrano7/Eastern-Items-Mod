@@ -29,12 +29,14 @@ SVT-40
 PKM
 PKP Pecheneg
 *Obrez
+*PSL
 
 9x19mm
 Browing Hi-Power
 *CZ-75
 *GSh-18
 *MP-443 Grach
+*Vityaz-SN
 
 9x18mm
 Pistole M
@@ -44,5 +46,10 @@ PB Silent Pistol
 Fort-12
 Stechkin APS
 *Borz
-*PP-91 Kedr
+PP-91 Kedr
 *PP-19 Bizon
+
+*9x39mm
+*AS VAL
+*VSS Vintorez
+*AK-9
