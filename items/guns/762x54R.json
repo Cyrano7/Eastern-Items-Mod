@@ -25,7 +25,7 @@
     "copy-from": "rifle_semi",
     "type": "GUN",
     "name": "SVT-40",
-    "description": "A semi-automatic rifle intended to replace the mosin-nagant as the main service rifle of the Soviet Red Army.  While the out break of WWII disrupted production over a million were still built before production ceased in favor of the SKS after the war.",
+    "description": "A semi-automatic rifle intended to replace the Mosin-Nagant as the main service rifle of the Soviet Red Army.  While the out break of WWII disrupted production over a million were still built before production ceased in favor of the SKS after the war.",
     "weight": 3850,
     "volume": 12,
     "price": 19000,
