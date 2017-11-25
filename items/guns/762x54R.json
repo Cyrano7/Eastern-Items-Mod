@@ -72,5 +72,29 @@
     "price": 1000000,
     "material": [ "steel", "plastic" ],
     "color": "dark_gray"
+  },
+  {
+    "id": "obrez",
+    "copy-from": "rifle_manual",
+    "type": "GUN",
+    "name": "Obrez",
+    "name_plural": "Obrez",
+    "description": "A Mosin-Nagant rifle that has had it's barrel and stock sawed down to make a crude pistol sized weapon.  Popular among criminals and irregular forces as concealable firearm when handguns are unavailable.",
+    "weight": 3000,
+    "volume": 6,
+    "price": 19000,
+    "to_hit": -1,
+    "bashing": 12,
+    "material": [ "steel", "wood" ],
+    "color": "brown",
+    "ammo": "762R",
+    "range": 3,
+    "dispersion": 90,
+    "durability": 10,
+    "clip_size": 5,
+    "reload": 75,
+    "barrel_length": 1,
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "barrel", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "sights", 1 ] ],
+    "flags": [ "RELOAD_ONE" ]
   }
 ]
