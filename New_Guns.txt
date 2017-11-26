@@ -57,6 +57,8 @@ PP-91 Kedr
 *PP-19 Bizon
 *PM-63 RAK
 *P-83 Wanad
+*OTs-02 Kiparis
+*AEK-919K Kashtan
 
 *9x39mm
 *AS VAL
