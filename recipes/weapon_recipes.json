@@ -1,0 +1,15 @@
+[
+  {
+    "result": "obrez",
+    "type": "recipe",
+    "category": "CC_WEAPON",
+    "subcategory": "CSC_WEAPON_RANGED",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "skills_required": [ "gun", 2 ],
+    "time": 12000,
+    "autolearn": true,
+    "qualities": [ { "id": "SAW_M", "level": 1 } ],
+    "components": [ [ [ "mosin91_30", 1], [ "mosin44", 1] ] ]
+  }
+]
