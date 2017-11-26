@@ -31,7 +31,7 @@ Dragunov SVD
 SVT-40
 PKM
 PKP Pecheneg
-*Obrez
+Obrez
 *PSL
 *DP-27
 *SV-98
