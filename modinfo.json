@@ -4,7 +4,7 @@
     "ident": "eastern_items_mod",
     "name": "Eastern Items Mod",
     "authors": [ "Cyrano7" ],
-    "description": "Aims to change the setting from New England to Eastern European.",
+    "description": "Aims to change the setting of the game from New England to Eastern Europe.",
     "category": "content",
     "dependencies": [ "dda" ]
   }
