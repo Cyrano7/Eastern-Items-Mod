@@ -86,7 +86,7 @@
     "copy-from": "smg_base",
     "type": "GUN",
     "name": "Borz",
-    "description": "TODO",
+    "description": "Chechen for 'wolf', the borz is a crudely made submachine gun first produced in Chechnya in the early 90's.  While most guns differ in exact design, they are mostly based on the Armenian K6-92.  Just a much cheaper, simpler version.",
     "weight": 2000,
     "volume": 3,
     "price": 10000,

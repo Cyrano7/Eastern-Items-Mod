@@ -52,7 +52,7 @@ Makarov PMM
 PB Silent Pistol
 Fort-12
 Stechkin APS
-*Borz
+Borz
 PP-91 Kedr
 *PP-19 Bizon
 *PM-63 RAK
