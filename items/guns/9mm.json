@@ -24,7 +24,8 @@
     "type": "GUN",
     "name": "CZ 75",
     "description": "TODO",
-    "weight": 1120
+    "weight": 1000,
+    "magazines": [ [ "9mm", [ "cz75mag" ] ] ]
   },
   {
     "id": "gsh18",
