@@ -33,7 +33,8 @@
     "type": "GUN",
     "name": "GSh-18",
     "description": "TODO",
-    "weight": 590
+    "weight": 590,
+    "magazines": [ [ "9mm", [ "gshmag" ] ] ]
   },
   {
     "id": "grach",
@@ -41,6 +42,7 @@
     "type": "GUN",
     "name": "MP-443 Grach",
     "description": "TODO",
-    "weight": 950
+    "weight": 950,
+    "magazines": [ [ "9mm", [ "grachmag" ] ] ]
   }
 ]

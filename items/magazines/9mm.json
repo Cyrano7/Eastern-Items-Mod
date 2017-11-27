@@ -30,5 +30,37 @@
     "capacity": 16,
     "reliability": 8,
     "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "gshmag",
+    "type": "MAGAZINE",
+    "name": "GSh-18 magazine",
+    "description": "A 18-round double stack style magazine for use with the GSh-18 pistol.",
+    "weight": 135,
+    "volume": 1,
+    "price": 2900,
+    "material": "steel",
+    "symbol": "#",
+    "color": "ltgray",
+    "ammo_type": "9mm",
+    "capacity": 18,
+    "reliability": 8,
+    "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "grachmag",
+    "type": "MAGAZINE",
+    "name": "MP-443 Grach magazine",
+    "description": "A 17-round double stack style magazine for use with the MP-443 Grach pistol.",
+    "weight": 135,
+    "volume": 1,
+    "price": 2900,
+    "material": "steel",
+    "symbol": "#",
+    "color": "ltgray",
+    "ammo_type": "9mm",
+    "capacity": 17,
+    "reliability": 8,
+    "flags": [ "MAG_COMPACT" ]
   }
 ]
