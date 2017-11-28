@@ -124,7 +124,7 @@
     "copy-from": "smg_base",
     "type": "GUN",
     "name": "PP-19 Bizon",
-    "description": "TODO",
+    "description": "The Bizon is lightweight select-fire submachine gun based on the AKS-74.  One of the most notable features is it's large underbarrel helical-feed magazine which is sometimes mistaken for a grenade launcher.",
     "weight": 2100,
     "volume": 5,
     "price": 30000,
