@@ -1,20 +1,9 @@
 [
     {
         "type": "profession",
+        "copy-from": "rifle_hunter",
         "ident": "rifle_hunter",
         "name": "Rifle Hunter",
-        "description": "Ever since you were a child you loved hunting, and you soon took a liking to the challenge of hunting with a rifle.  Why, if the world ended there's nothing you'd want at your side more than your trusty rifle.  So when it did, you made sure to bring it along.",
-        "points": 2,
-        "skills": [
-            {
-                "level": 1,
-                "name": "gun"
-            },
-            {
-                "level": 1,
-                "name": "rifle"
-            }
-        ],
         "items": {
             "both": {
                 "items": [
@@ -44,27 +33,9 @@
     },
     {
         "type": "profession",
+        "copy-from": "sniper_police",
         "ident": "sniper_police",
         "name": "Police Sniper",
-        "description": "Your skill as a sharpshooter served you well in the line of duty, protecting the innocent with a single, well placed bullet.  Now survival itself is on the line, and you can't afford to miss if you don't want to end up as something's dinner.",
-        "points": 5,
-        "skills": [
-            {
-                "level": 5,
-                "name": "gun"
-            },
-            {
-                "level": 4,
-                "name": "rifle"
-            },
-            {
-                "level": 1,
-                "name": "pistol"
-            }
-        ],
-        "traits": [
-            "PROF_POLICE"
-        ],
         "items": {
             "both": {
                 "items": [
