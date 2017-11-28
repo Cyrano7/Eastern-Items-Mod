@@ -178,7 +178,14 @@
       "tiotaco",
       "crown_golden",
       "crown_golden_survivor",
-      "jewelry_book"
+      "jewelry_book",
+      "link_sheet",
+      "chain_link",
+      "chainmail_arms",
+      "chainmail_hood",
+      "chainmail_legs",
+      "chainmail_vest",
+      "chainmail_suit"
     ]
   }
 ]
