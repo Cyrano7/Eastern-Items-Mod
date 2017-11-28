@@ -1,0 +1,98 @@
+[
+    {
+        "type": "profession",
+        "ident": "rifle_hunter",
+        "name": "Rifle Hunter",
+        "description": "Ever since you were a child you loved hunting, and you soon took a liking to the challenge of hunting with a rifle.  Why, if the world ended there's nothing you'd want at your side more than your trusty rifle.  So when it did, you made sure to bring it along.",
+        "points": 2,
+        "skills": [
+            {
+                "level": 1,
+                "name": "gun"
+            },
+            {
+                "level": 1,
+                "name": "rifle"
+            }
+        ],
+        "items": {
+            "both": {
+                "items": [
+                    "army_top",
+                    "knit_scarf",
+                    "socks",
+                    "boots_steel",
+                    "pants_cargo",
+                    "jacket_flannel",
+                    "hat_hunting"
+                ],
+                "entries": [
+                    { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+                    { "item": "remington_700", "ammo-item": "308", "charges": 4, "contents-item": "shoulder_strap" },
+                    { "item": "308", "charges": 16, "container-item": "bandolier_rifle" },
+                    { "item": "sheath", "contents-item": "knife_hunting" }
+                ]
+            },
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "sports_bra",
+                "boxer_shorts"
+            ]
+        }
+    },
+    {
+        "type": "profession",
+        "ident": "sniper_police",
+        "name": "Police Sniper",
+        "description": "Your skill as a sharpshooter served you well in the line of duty, protecting the innocent with a single, well placed bullet.  Now survival itself is on the line, and you can't afford to miss if you don't want to end up as something's dinner.",
+        "points": 5,
+        "skills": [
+            {
+                "level": 5,
+                "name": "gun"
+            },
+            {
+                "level": 4,
+                "name": "rifle"
+            },
+            {
+                "level": 1,
+                "name": "pistol"
+            }
+        ],
+        "traits": [
+            "PROF_POLICE"
+        ],
+        "items": {
+            "both": {
+                "items": [
+                    "socks",
+                    "pants_army",
+                    "hoodie",
+                    "sneakers",
+                    "gloves_tactical",
+                    "glasses_bal",
+                    "hat_boonie",
+                    "badge_deputy",
+                    "wristwatch"
+                ],
+                "entries": [
+                    { "item": "ear_plugs", "custom-flags": [ "no_auto_equip" ] },
+                    { "item": "usp_45", "ammo-item": "45_acp", "charges": 12, "container-item": "holster" },
+                    { "item": "45_acp", "charges": 18 },
+                    { "item": "remington_700", "ammo-item": "308", "charges": 4, "contents-item": [ "shoulder_strap", "rifle_scope" ] },
+                    { "item": "308", "charges": 16 }
+                ]
+            },
+            "male": [
+                "boxer_shorts"
+            ],
+            "female": [
+                "bra",
+                "boy_shorts"
+            ]
+        }
+    }
+]
