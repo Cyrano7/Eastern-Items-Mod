@@ -7,7 +7,7 @@
       [ "makarov", 100 ],
       [ "tokarev", 40 ],
       [ "fort12", 30 ],
-      [ "makarov_m", 30 ],
+      [ "makarov_m", 20 ],
       [ "vz82", 20 ],
       [ "pistole_m", 10 ],
       [ "aps", 10 ],
@@ -66,11 +66,6 @@
     "type": "item_group",
     "//": "Less common SMGs including those only used by police/paramilitary forces.",
     "items": [
-      [ "fn_p90", 50 ],
-      [ "hk_ump45", 30 ],
-      [ "mac_10", 40 ],
-      [ "TDI", 10 ],
-      [ "cx4", 50 ],
       [ "bizon", 20 ]
     ]
   },
@@ -79,7 +74,6 @@
     "type": "item_group",
     "//": "Military specification SMGs only ever found at military sites.",
     "items": [
-      [ "hk_mp7", 100 ],
       [ "bizon", 40 ]
     ]
   },
@@ -102,7 +96,8 @@
       [ "mosin91_30", 25 ],
       [ "sks", 30 ],
       [ "aks74u", 20 ],
-      [ "svt", 10 ]
+      [ "svt", 10 ],
+      [ "akms", 10 ]
     ]
   },
   {
@@ -122,7 +117,8 @@
       [ "ak74m", 50 ],
       [ "ak105", 30 ],
       [ "svd", 20 ],
-      [ "an94", 10 ]
+      [ "an94", 10 ],
+      [ "ak103", 10 ]
     ]
   }
 ]
