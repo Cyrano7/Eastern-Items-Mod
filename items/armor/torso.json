@@ -1,0 +1,20 @@
+[
+  {
+    "id": "telnyashka",
+    "type": "ARMOR",
+    "name": "telnyashka",
+    "description": "A long-sleeved white undershirt with horizontal stripes worn by the Russian navy, airborne troops, and marines.",
+    "weight": 146,
+    "volume": 3,
+    "price": 2000,
+    "material": [ "cotton" ],
+    "symbol": "[",
+    "color": "blue",
+    "covers": [ "TORSO", "ARMS" ],
+    "coverage": 90,
+    "encumbrance": 3,
+    "warmth": 5,
+    "material_thickness": 1,
+    "flags": [ "VARSIZE" ]
+  }
+]
