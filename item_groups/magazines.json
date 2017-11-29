@@ -18,6 +18,9 @@
     "items": [
       [ "pmm_mag", 60 ],
       [ "bigpmm_mag", 20 ],
+      [ "grachmag", 40 ],
+      [ "gshmag", 30 ],
+      [ "cz75mag", 20 ],
       [ "bhpmag", 20 ]
     ]
   },

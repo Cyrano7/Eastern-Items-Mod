@@ -43,11 +43,8 @@
     "type": "item_group",
     "//": "Imported or otherwise very obscure pistols.",
     "items": [
-      [ "glock_19", 20 ],
       [ "cz75", 20 ],
-      [ "m9", 20 ],
-      [ "browning_hp", 20 ],
-      [ "m1911", 20 ]
+      [ "browning_hp", 20 ]
     ]
   },
   {
@@ -81,11 +78,7 @@
     "id": "guns_smg_obscure",
     "type": "item_group",
     "//": "Imported or otherwise very obscure SMGs.",
-    "items": [
-      [ "hk_mp5", 100 ],
-      [ "skorpion_61", 100 ],
-      [ "skorpion_82", 100 ]
-    ]
+    "items": []
   },
   {
     "id": "guns_rifle_common",
