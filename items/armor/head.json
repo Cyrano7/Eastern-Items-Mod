@@ -1,19 +1,9 @@
 [
   {
     "id": "ushanka",
+    "copy-from": "hat_fur",
     "type": "ARMOR",
     "name": "ushanka",
-    "description": "A fur hat with ear flaps.  Very warm.",
-    "weight": 246,
-    "volume": 3,
-    "price": 5000,
-    "material": [ "fur" ],
-    "symbol": "[",
-    "color": "brown",
-    "covers": [ "HEAD" ],
-    "coverage": 95,
-    "encumbrance": 10,
-    "warmth": 70,
-    "material_thickness": 3
+    "description": "A fur hat with ear flaps.  Very warm."
   }
 ]
