@@ -9,7 +9,7 @@
     "price": 2000,
     "material": [ "cotton" ],
     "symbol": "[",
-    "color": "blue",
+    "color": "white",
     "covers": [ "TORSO", "ARMS" ],
     "coverage": 90,
     "encumbrance": 3,
