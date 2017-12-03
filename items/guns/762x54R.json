@@ -17,7 +17,16 @@
     "dispersion": 90,
     "durability": 9,
     "barrel_length": 3,
-    "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ] ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ]
+    ],
     "magazines": [ [ "762R", [ "svdmag" ] ] ]
   },
   {
@@ -59,7 +68,16 @@
     "reload": 400,
     "modes": [ [ "DEFAULT", "auto", 20 ] ],
     "built_in_mods": [ "bipod" ],
-    "valid_mod_locations": [ [ "accessories", 4 ], [ "barrel", 1 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "muzzle", 1 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock", 1 ] ],
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "barrel", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "muzzle", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ]
+    ],
     "magazines": [ [ "762R", [ "belt762R" ] ] ]
   },
   {
@@ -96,3 +114,4 @@
     "flags": [ "RELOAD_ONE" ]
   }
 ]
+
