@@ -5,5 +5,43 @@
     "type": "ARMOR",
     "name": "ushanka",
     "description": "A fur hat with ear flaps.  Very warm."
+  },
+  {
+    "id": "helmet_ssh",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": "SSh-68 helmet",
+    "description": "A heavy helmet that provides excellent protection from all sorts of damage.",
+    "weight": 1500,
+    "volume": 7,
+    "price": 15000,
+    "to_hit": -1,
+    "bashing": 10,
+    "material": [ "steel" ],
+    "symbol": "[",
+    "color": "green",
+    "covers": [ "HEAD" ],
+    "coverage": 95,
+    "encumbrance": 20,
+    "warmth": 20,
+    "material_thickness": 5,
+    "techniques": [ "WBLOCK_1" ],
+    "flags": [ "WATERPROOF", "STURDY" ]
+  },
+  {
+    "id": "helmet_sshm",
+    "copy-from": "helmet_ssh",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": "SSh-68M helmet",
+    "description": "A heavy helmet that provides excellent protection from all sorts of damage.",
+    "weight": 1900,
+    "price": 15000,
+    "material": [ "steel", "kevlar" ],
+    "encumbrance": 20,
+    "warmth": 20,
+    "material_thickness": 5,
+    "flags": [ "WATERPROOF", "STURDY" ]
   }
 ]
+
