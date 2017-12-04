@@ -69,3 +69,4 @@ PP-19 Bizon
 *AS VAL
 *VSS Vintorez
 *AK-9
+*VSK-94
