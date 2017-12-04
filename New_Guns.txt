@@ -12,6 +12,12 @@ AK-74M
 AK-105
 *RPK-74
 
+7.62x25mm
+PPS-43
+
+7.62x38mmR
+Nagant M1895
+
 7.62x39mm
 AKMS
 *Zastava M70
@@ -19,12 +25,6 @@ PM md.63
 AK-103
 *RPK
 *RPD
-
-7.62x25mm
-PPS-43
-
-7.62x38mmR
-Nagant M1895
 
 7.62x54mmR
 Dragunov SVD
@@ -36,15 +36,6 @@ Obrez
 *DP-27
 *SV-98
 *OTs-03 SVU
-
-9x19mm
-Browing Hi-Power
-*CZ-75
-*GSh-18
-*MP-443 Grach
-*Vityaz-SN
-*PP-2000
-*PM-84 Glauberyt
 
 9x18mm
 Pistole M
@@ -60,6 +51,15 @@ PP-19 Bizon
 *P-83 Wanad
 *OTs-02 Kiparis
 *AEK-919K Kashtan
+
+9x19mm
+Browing Hi-Power
+*CZ-75
+*GSh-18
+*MP-443 Grach
+*Vityaz-SN
+*PP-2000
+*PM-84 Glauberyt
 
 *9x21mm
 *SR-1 Gyurza
