@@ -61,6 +61,10 @@ PP-19 Bizon
 *OTs-02 Kiparis
 *AEK-919K Kashtan
 
+*9x21mm
+*SR-1 Gyurza
+*SR-2 Veresk
+
 *9x39mm
 *AS VAL
 *VSS Vintorez
