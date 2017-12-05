@@ -12,5 +12,16 @@
       [ "762_25typeP", 25 ],
       [ "762x38R", 25 ]
     ]
+  },
+  {
+    "type": "item_group",
+    "id": "ammo_rifle_common",
+    "//": "Rifle ammo commonly owned by citizens and found in many locations.",
+    "items": [
+      [ "762_54R", 25 ],
+      [ "762_m43", 20 ],
+      [ "762_m87", 10 ],
+      [ "545", 10 ]
+    ]
   }
 ]
