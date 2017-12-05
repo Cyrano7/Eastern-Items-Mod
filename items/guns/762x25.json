@@ -9,6 +9,7 @@
     "material": [ "steel" ],
     "color": "light_gray",
     "built_in_mods": [ "folding_stock" ],
+    "modes": [ [ "AUTO", "auto", 6 ] ],
     "valid_mod_locations": [
       [ "accessories", 3 ],
       [ "barrel", 1 ],
