@@ -1,0 +1,12 @@
+[
+  {
+    "id": "helmet_army",
+    "copy-from": "helmet_army",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": "PASGT helmet",
+    "description": "A heavy helmet that provides excellent protection from all sorts of damage.",
+    "weight": 1660
+  }
+]
+
