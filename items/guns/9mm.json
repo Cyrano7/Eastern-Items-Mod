@@ -41,7 +41,7 @@
     "copy-from": "glock_19",
     "type": "GUN",
     "name": "MP-443 Grach",
-    "description": "TODO",
+    "description": "The MP-443 Grach is a high capacity, polymer framed pistol adopted as new standard sidearm of the Russian military.",
     "weight": 950,
     "magazines": [ [ "9mm", [ "grachmag" ] ] ]
   }
