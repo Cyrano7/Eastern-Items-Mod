@@ -20,7 +20,6 @@ Nagant M1895
 
 7.62x39mm
 AKMS
-*Zastava M70
 PM md.63
 AK-103
 *RPK

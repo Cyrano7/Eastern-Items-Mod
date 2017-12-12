@@ -19,14 +19,6 @@
     ]
   },
   {
-    "id": "m70",
-    "copy-from": "ak47",
-    "type": "GUN",
-    "name": "Zastava M70",
-    "description": "TODO",
-    "weight": 3100
-  },
-  {
     "id": "pm63",
     "copy-from": "ak47",
     "type": "GUN",
