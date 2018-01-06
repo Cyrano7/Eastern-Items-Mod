@@ -28,12 +28,5 @@
     "type": "MAGAZINE",
     "name": "Beretta 92 magazine",
     "description": "A military issue 15-round box magazine originally intended for use with the Beretta 92 handgun."
-  },
-  {
-    "id": "glockmag",
-    "copy-from": "glockmag",
-    "type": "MAGAZINE",
-    "name": "Glock magazine",
-    "capacity": 17
   }
 ]
