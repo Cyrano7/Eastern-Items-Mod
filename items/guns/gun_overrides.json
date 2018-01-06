@@ -79,25 +79,6 @@
     ]
   },
   {
-    "id": "glock_19",
-    "copy-from": "glock_19",
-    "type": "GUN",
-    "name": "Glock 17",
-    "description": "Possibly the most popular pistol in existence.  The Glock 17 is often derided for its plastic construction, it's easy to shoot though.",
-    "valid_mod_locations": [
-      [ "accessories", 2 ],
-      [ "barrel", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
-    ],
-    "magazines": [ [ "9mm", [ "glockmag", "glockbigmag" ] ] ]
-  },
-  {
     "id": "shotgun_d",
     "copy-from": "shotgun_d",
     "type": "GUN",
