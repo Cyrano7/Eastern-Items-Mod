@@ -99,15 +99,6 @@
     "name": "Skorpion Vz. 82",
     "description": "A version of the Czechoslovak Skorpion submachine gun chambered in 9x18mm Makarov, with a slightly longer barrel than the original design.",
     "magazines": [ [ "9x18", [ "skorpion82mag" ] ] ]
-  },
-  {
-    "id": "m9",
-    "copy-from": "m9",
-    "type": "GUN",
-    "name": "Beretta M9",
-    "description": "An American variant of the popular Beretta 92.  The M9 has been the standard issue sidearm of the United States Armed Forces since 1985.",
-    "weight": 970,
-    "magazines": [ [ "9mm", [ "m9mag", "m9bigmag" ] ] ]
   }
 ]
 

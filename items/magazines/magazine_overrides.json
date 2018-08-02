@@ -14,19 +14,5 @@
     "name": "AK-74 extended magazine",
     "description": "A 45-round magazine compatible with the AK-74 rifle, though originally designed for the RPK-74 light machine gun.",
     "color": "light_gray"
-  },
-  {
-    "id": "m9bigmag",
-    "copy-from": "m9bigmag",
-    "type": "MAGAZINE",
-    "name": "Beretta 92 extended magazine",
-    "description": "A 30-round extended magazine compatible with both the Beretta 92 handgun as well as some modern carbines."
-  },
-  {
-    "id": "m9mag",
-    "copy-from": "m9mag",
-    "type": "MAGAZINE",
-    "name": "Beretta 92 magazine",
-    "description": "A military issue 15-round box magazine originally intended for use with the Beretta 92 handgun."
   }
 ]
