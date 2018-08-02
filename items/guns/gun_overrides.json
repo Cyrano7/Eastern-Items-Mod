@@ -108,20 +108,6 @@
     "description": "An American variant of the popular Beretta 92.  The M9 has been the standard issue sidearm of the United States Armed Forces since 1985.",
     "weight": 970,
     "magazines": [ [ "9mm", [ "m9mag", "m9bigmag" ] ] ]
-  },
-  {
-    "id": "remington_700",
-    "copy-from": "remington_700",
-    "type": "GUN",
-    "name": "Remington 700",
-    "ammo": "308"
-  },
-  {
-    "id": "win70",
-    "copy-from": "win70",
-    "type": "GUN",
-    "name": "Winchester Model 70",
-    "ammo": "308"
   }
 ]
 

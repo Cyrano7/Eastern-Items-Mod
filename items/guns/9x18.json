@@ -1,24 +1,5 @@
 [
   {
-    "id": "pistole_m",
-    "copy-from": "makarov",
-    "type": "GUN",
-    "name": "Pistole M",
-    "description": "A East German copy of the Pistolet Makarova.  It uses the 9x18mm cartridge, which remains in use among various former Soviet countries.",
-    "color": "dark_gray"
-  },
-  {
-    "id": "vz82",
-    "copy-from": "makarov",
-    "type": "GUN",
-    "name": "Vz. 82",
-    "description": "The Vz.82, also referred to as the CZ 83 was Czechoslovakia's attempted at making an improved version of the Soviet Makarov pistol.  It features a larger magazine, better finish, and much improved ergonomics.",
-    "weight": 800,
-    "material": [ "steel" ],
-    "color": "dark_gray",
-    "magazines": [ [ "9x18", [ "vz82_mag" ] ] ]
-  },
-  {
     "id": "makarov_m",
     "copy-from": "makarov",
     "type": "GUN",
