@@ -1,40 +1,10 @@
 [
   {
-    "id": "makarov",
-    "copy-from": "makarov",
-    "type": "GUN",
-    "name": "Makarov PM",
-    "color": "light_gray",
-    "valid_mod_locations": [
-      [ "accessories", 2 ],
-      [ "barrel", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
-    ],
-    "magazines": [ [ "9x18", [ "makarovmag" ] ] ]
-  },
-  {
     "id": "tokarev",
     "copy-from": "tokarev",
     "type": "GUN",
     "name": "Tokarev TT-33",
-    "weight": 854,
-    "valid_mod_locations": [
-      [ "accessories", 2 ],
-      [ "barrel", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ],
-      [ "underbarrel", 1 ]
-    ]
+    "weight": 854
   },
   {
     "id": "ak74",
@@ -63,22 +33,6 @@
     "magazines": [ [ "762", [ "akmmag", "akmbigmag" ] ] ]
   },
   {
-    "id": "sks",
-    "copy-from": "sks",
-    "type": "GUN",
-    "name": "SKS",
-    "valid_mod_locations": [
-      [ "accessories", 4 ],
-      [ "barrel", 1 ],
-      [ "grip", 1 ],
-      [ "mechanism", 4 ],
-      [ "muzzle", 1 ],
-      [ "rail", 1 ],
-      [ "sights", 1 ],
-      [ "stock", 1 ]
-    ]
-  },
-  {
     "id": "shotgun_d",
     "copy-from": "shotgun_d",
     "type": "GUN",
@@ -89,7 +43,7 @@
     "id": "shotgun_s",
     "copy-from": "shotgun_s",
     "type": "GUN",
-    "name": "Baikal IZH-18",
+    "name": "Izhmekh IZH-18",
     "description": "An old shotgun, possibly antique.  It is little more than a barrel, a wood stock, and a hammer to strike the cartridge.  Its simple design keeps it both light and accurate."
   },
   {
