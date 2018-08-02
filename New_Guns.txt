@@ -1,8 +1,5 @@
 *Planned
 
-.32 ACP
-Vz.50
-
 *5.45x18mm
 *PSM Pistol
 
@@ -20,7 +17,6 @@ Nagant M1895
 
 7.62x39mm
 AKMS
-PM md.63
 AK-103
 *RPK
 *RPD
@@ -31,14 +27,11 @@ SVT-40
 PKM
 PKP Pecheneg
 Obrez
-*PSL
 *DP-27
 *SV-98
 *OTs-03 SVU
 
 9x18mm
-Pistole M
-Vz. 82
 Makarov PMM
 PB Silent Pistol
 Fort-12
@@ -46,19 +39,15 @@ Stechkin APS
 Borz
 PP-91 Kedr
 PP-19 Bizon
-*PM-63 RAK
-*P-83 Wanad
 *OTs-02 Kiparis
 *AEK-919K Kashtan
 
 9x19mm
 Browing Hi-Power
-*CZ-75
 *GSh-18
 *MP-443 Grach
 *Vityaz-SN
 *PP-2000
-*PM-84 Glauberyt
 
 *9x21mm
 *SR-1 Gyurza
