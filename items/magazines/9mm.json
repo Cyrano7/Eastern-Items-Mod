@@ -1,37 +1,5 @@
 [
   {
-    "id": "bhpmag",
-    "type": "MAGAZINE",
-    "name": "Browing HP magazine",
-    "description": "A steel 13-round magazine for use with the Browing Hi-Power.",
-    "weight": 135,
-    "volume": 1,
-    "price": 2900,
-    "material": "steel",
-    "symbol": "#",
-    "color": "light_gray",
-    "ammo_type": "9mm",
-    "capacity": 13,
-    "reliability": 7,
-    "flags": [ "MAG_COMPACT" ]
-  },
-  {
-    "id": "cz75mag",
-    "type": "MAGAZINE",
-    "name": "CZ 75 magazine",
-    "description": "A 16-round double stack style magazine for use with the CZ 75 pistol.",
-    "weight": 135,
-    "volume": 1,
-    "price": 2900,
-    "material": "steel",
-    "symbol": "#",
-    "color": "ltgray",
-    "ammo_type": "9mm",
-    "capacity": 16,
-    "reliability": 8,
-    "flags": [ "MAG_COMPACT" ]
-  },
-  {
     "id": "gshmag",
     "type": "MAGAZINE",
     "name": "GSh-18 magazine",

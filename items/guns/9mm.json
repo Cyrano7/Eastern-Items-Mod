@@ -1,33 +1,5 @@
 [
   {
-    "id": "browning_hp",
-    "copy-from": "pistol_base",
-    "type": "GUN",
-    "name": "Browing Hi-Power",
-    "name_plural": "Browing Hi-Power",
-    "description": "TODO",
-    "weight": 885,
-    "volume": 2,
-    "price": 65000,
-    "to_hit": -1,
-    "bashing": 8,
-    "material": [ "steel", "wood" ],
-    "ammo": "9mm",
-    "dispersion": 180,
-    "durability": 8,
-    "magazine_well": 1,
-    "magazines": [ [ "9mm", [ "bhpmag" ] ] ]
-  },
-  {
-    "id": "cz75",
-    "copy-from": "glock_19",
-    "type": "GUN",
-    "name": "CZ 75",
-    "description": "TODO",
-    "weight": 1000,
-    "magazines": [ [ "9mm", [ "cz75mag" ] ] ]
-  },
-  {
     "id": "gsh18",
     "copy-from": "glock_19",
     "type": "GUN",
