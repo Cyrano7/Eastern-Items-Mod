@@ -1,5 +1,30 @@
 [
   {
+    "id": "ak74",
+    "copy-from": "ak74",
+    "type": "GUN",
+    "name": "AK-74",
+    "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.",
+    "weight": 3170,
+    "volume": 7,
+    "price": 390000,
+    "burst": 10,
+    "magazines": [ [ "545x39", [ "ak74mag", "rpk74mag", "aks74umag" ] ] ]
+  },
+  {
+    "id": "an94",
+    "copy-from": "an94",
+    "type": "GUN",
+    "name": "AN-94",
+    "description": "Intended to replace the AK-74, this rifle uses a sophisticated mechanism to delay felt recoil, along with a very fast two-round burst mode.  While its increased complexity prevented it from being adopted by the Russian military, it has seen service among their special forces.",
+    "weight": 3850,
+    "volume": 7,
+    "price": 420000,
+    "color": "dark_gray",
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "BURST", "2 rd.", 2 ], [ "AUTO", "auto", 10 ] ],
+    "magazines": [ [ "545x39", [ "ak74mag", "rpk74mag", "aks74umag" ] ] ]
+  },
+  {
     "id": "aks74u",
     "copy-from": "ak74",
     "type": "GUN",
@@ -7,16 +32,19 @@
     "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.  This version is a lightened carbine variant with a folding stock.",
     "weight": 2700,
     "volume": 6,
+    "price": 390000,
     "built_in_mods": [ "folding_stock" ],
     "valid_mod_locations": [
       [ "accessories", 4 ],
       [ "barrel", 1 ],
       [ "bore", 1 ],
+      [ "brass catcher", 1 ],
       [ "grip", 1 ],
       [ "mechanism", 4 ],
       [ "muzzle", 1 ],
       [ "rail", 1 ],
       [ "sights", 1 ],
+      [ "sling", 1 ],
       [ "underbarrel", 1 ]
     ]
   },
@@ -27,6 +55,7 @@
     "name": "AK-74M",
     "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.  This version is a modernized variant with a glass polyamide folding stock and handguard.",
     "weight": 3400,
+    "price": 390000,
     "material": [ "steel", "plastic" ],
     "color": "light_gray",
     "default_mods": [ "folding_stock" ]
@@ -38,7 +67,8 @@
     "name": "AK-105",
     "description": "The successor to the well-known AK-47 rifle.  It combines the reliability of the AK series with the high-velocity, lightweight 5.45x39mm cartridge.  This version is a modernized lightened carbine variant with a glass polyamide folding stock and handguard.",
     "weight": 3200,
-    "volume": 6
+    "volume": 6,
+    "price": 390000
   }
 ]
 
