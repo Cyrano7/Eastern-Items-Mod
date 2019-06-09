@@ -1,10 +1,33 @@
 [
   {
+    "id": "ak74mag",
+    "copy-from": "ak74mag",
+    "type": "MAGAZINE",
+    "name": "AK-74 magazine",
+    "description": "A 30-round standard 5.45x39mm magazine compatible with AK-74 type rifles, made of steel-reinforced polymer.",
+    "weight": 230,
+    "volume": 2,
+    "price": 1500,
+    "color": "brown"
+  },
+  {
+    "id": "rpk74mag",
+    "copy-from": "rpk74mag",
+    "type": "MAGAZINE",
+    "name": "AK-74 extended magazine",
+    "description": "A 45-round extended 5.45x39mm magazine compatible with AK-74 type rifles, made of steel-reinforced polymer.  Originally designed for the RPK-74 light machine gun.",
+    "weight": 300,
+    "volume": 3,
+    "price": 8500,
+    "material": [ "steel", "plastic" ],
+    "color": "brown"
+  },
+  {
     "id": "aks74umag",
     "copy-from": "ak74mag",
     "type": "MAGAZINE",
     "name": "AK-74 compact magazine",
-    "description": "A shorter magazine made for the AKS-74U carbine, made of steel-reinforced polymer.  Holds 20 rounds.",
+    "description": "A 20-round compact 5.45x39mm magazine compatible with AK-74 type rifles, made of steel-reinforced polymer.  Originally designed for the AKS-74U carbine",
     "weight": 180,
     "capacity": 20
   }
